@@ -6,13 +6,13 @@ projects.
 
 ## Installation
 
-To use this library in your project, you can download the `custom-js-library.js` file and include it in your HTML file like so:
+To use this library in your project, you can download the `library.js` file and include it in your HTML file like so:
 
 
 ## Usage
 
 ```html
-<script src="path/to/custom-js-library.js"></script>
+<script type="text/javascript" src="library.js"></script>
 ```
 
 ## Contributing
